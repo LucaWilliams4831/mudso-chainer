@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": 1,
+      "denom_units": [
+        {
+          "denom": "fco",
+          "exponent": 0
+        },
+        {
+          "denom": "evmos",
+          "exponent": 18
+        }
+      ],
+      "base": "fco",
+      "display": "fco",
+      "name": "fco",
+      "symbol": "EVMOS"
+    }
+  ]
+}
